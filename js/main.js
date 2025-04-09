@@ -2,8 +2,8 @@ import { getArrayMiniatures } from "./ArrayMiniatures.js";
 console.log(getArrayMiniatures());
 
 
-// ДЗ - 4
 
+// ДЗ - 4
 // Структура каждого объекта
 // id, число — идентификатор опубликованной фотографии. Это число от 1 до 25. Идентификаторы не должны повторяться.
 
